@@ -1,0 +1,67 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Marc-André ter Stegen",
+      "birth_date": "1992-04-30",
+      "Position": "Goalkeeper",
+      "International": "Germany",
+      "Team": "Barcelona",
+      "Poster": "https://cdn.theathletic.com/app/uploads/2023/11/17132231/ma-ter-stegen-scaled.jpeg"
+    },
+    {
+      "no": "27",
+      "name": "Lamine Yamal",
+      "birth_date": "2007-07-13",
+      "Position": "Forwards",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://tse1.mm.bing.net/th?id=OIP.Q6oBI8eFicN9_c-xjvPYnwHaE8&pid=Api&P=0&h=180"
+    },
+    {
+      "no": "15",
+      "name": "Andreas Christensen",
+      "birth_date": "1996-04-10",
+      "Position": "Defender",
+      "International": "Denmark",
+      "Team": "Barcelona",
+      "Poster": "https://tse1.mm.bing.net/th?id=OIP.XjAKHvKR7MTsO8AmMxuFdwHaGn&pid=Api&P=0&h=180"
+    },
+    {
+      "no": "21",
+      "name": "Frenkie de Jong",
+      "birth_date": "1997-05-12",
+      "Position": "Midfielders",
+      "International": "Netherlands",
+      "Team": "Barcelona",
+      "Poster": "https://tse4.mm.bing.net/th?id=OIP.zmtSh5fozVPRkI47Ic80xgHaE7&pid=Api&P=0&h=180"
+    },
+    {
+      "no": "8",
+      "name": "Pedri",
+      "birth_date": "2002-11-25",
+      "Position": "Midfielders",
+      "International": "Spain",
+      "Team": "Barcelona",
+      "Poster": "https://tse4.mm.bing.net/th?id=OIP.NiaET6N_BUGtiEF2862aEAHaE8&pid=Api&P=0&h=180"
+    },
+    {
+     "no": "11",
+      "name": "Raphinha",
+      "birth_date": "1996-12-14",
+      "Position": "Forwards",
+      "International": "Brazil",
+      "Team": "Barcelona",
+      "Poster": "https://tse4.mm.bing.net/th?id=OIP.6X3KEQxbCcMZ5JV5LLcHeAHaEy&pid=Api&P=0&h=180"
+    },
+    {
+      "no": "9",
+      "name": "Robert Lewandowski",
+      "birth_date": "1988-08-21",
+      "Position": "Forwards",
+      "International": "Poland",
+      "Team": "Barcelona",
+      "Poster": "https://tse2.mm.bing.net/th?id=OIP.KvnZQy9Gneq7dTsKaDT12wHaE8&pid=Api&P=0&h=180"
+    }
+  ]
+}
